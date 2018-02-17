@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1486638934 source:e:\programming\2 course 1 semester\practice\core\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	"CPU.h"
+
+1486796908 source:e:\programming\2 course 1 semester\practice\core\src\commands.cpp
+	<iostream>
+	<math.h>
+	"Commands.h"
+	"CPU.h"
+
+1487220612 e:\programming\2 course 1 semester\practice\core\include\commands.h
+	"CPU.h"
+
+1486803652 source:e:\programming\2 course 1 semester\practice\core\src\cpu.cpp
+	<iostream>
+	<iomanip>
+	"CPU.h"
+	"Commands.h"
+
+1486796908 e:\programming\2 course 1 semester\practice\core\include\cpu.h
+
+1485800732 source:g:\programming\2 course 1 semester\practice\core\src\commands.cpp
+	<iostream>
+	"Commands.h"
+	"CPU.h"
+
+1485799334 g:\programming\2 course 1 semester\practice\core\include\commands.h
+	"CPU.h"
+
+1485784918 source:g:\programming\2 course 1 semester\practice\core\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	"CPU.h"
+
+1485784918 g:\programming\2 course 1 semester\practice\core\include\cpu.h
+
+1485554336 source:g:\programming\2 course 1 semester\practice\core\src\cpu.cpp
+	<iostream>
+	"CPU.h"
+	"Commands.h"
+
+1486638934 source:c:\users\gamer\desktop\флешка\programming\2 course 1 semester\practice\core\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	"CPU.h"
+
+1486796906 c:\users\gamer\desktop\флешка\programming\2 course 1 semester\practice\core\include\cpu.h
+
+1486398104 source:c:\users\gamer\desktop\флешка\programming\2 course 1 semester\practice\core\src\cpu.cpp
+	<iostream>
+	<iomanip>
+	"CPU.h"
+	"Commands.h"
+
+1486795199 c:\users\gamer\desktop\флешка\programming\2 course 1 semester\practice\core\include\commands.h
+	"CPU.h"
+
